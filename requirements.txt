@@ -26,8 +26,11 @@ psutil
 shortzy
 fuzzywuzzy
 wheel
-gunicorn==20.1.0
+gunicorn
 werkzeug==2.0.2
 Flask
 itsdangerous==2.0.1
 python-Levenshtein
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
