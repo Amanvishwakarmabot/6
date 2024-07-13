@@ -99,5 +99,5 @@ class Bot(Client):
                 yield message
                 current += 1
 
-#app = Bot()
-Bot().run()
+app = Bot()
+app.run()
